@@ -7,7 +7,7 @@ body{
     background-color: rgb(215, 227, 236);
     overflow: auto;
 }
-.head-logo-box{
+.container{
     /* position: relative; */
     background-color: rgba(247, 220, 188, 0.5);
     width:100%;
@@ -20,11 +20,9 @@ body{
     border-bottom: 2px solid rgb(3, 3, 3);
     box-shadow: 10px 10px 10px rgba(10,10,13,0.50);
 }
-.company-logo{
-    width: 30%;
-}
+
 .head-p{
-    width: 30%;
+    /* width: 30%; */
     color: rgb(7, 226, 135);
     font-family: "Oswald", serif;
     font-optical-sizing: auto;
